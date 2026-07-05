@@ -3,5 +3,5 @@
 *.iml
 out
 gen
+
 readonly-dependencies/*/*
-modules/*/

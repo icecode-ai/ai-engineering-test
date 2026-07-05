@@ -20,6 +20,7 @@ Each project under `modules/` is an independent git repository with its own git 
 
 | Module Name | Path | Guidance File | Description |
 |-------------|------|---------------|-------------|
+| sample-clean-ms | `modules/sample-clean-ms` | `modules/sample-clean-ms/AGENTS.md + CLAUDE.md` | Clean-architecture / DDD / CQRS reference microservice — Java 21/Spring Boot 4/Maven |
 
 ## readonly-dependencies
 
@@ -27,6 +28,7 @@ Stores **read-only references** to private dependencies for local reading. Not p
 
 | Dependency Name | Path | Description |
 |-----------------|------|-------------|
+| clean | `readonly-dependencies/clean` | Clean-architecture framework — Java 21/Spring Boot 4/Akka/Maven |
 
 ## rules
 

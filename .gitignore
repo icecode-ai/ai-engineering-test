@@ -3,3 +3,6 @@
 *.iml
 out
 gen
+
+# Readonly dependencies (depth-2 contents ignored, gitlinks stay trackable)
+readonly-dependencies/*/*

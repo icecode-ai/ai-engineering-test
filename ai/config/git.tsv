@@ -1,4 +1,4 @@
 # path  url branch
 modules/sample-clean-ms	git@github.com:icecode-ai/sample-clean-ms.git	main
 modules/sample-clean-ddd	https://github.com/icecode-ai/sample-clean-ddd.git	main
-readonly-dependencies/clean git@github.com:icecode-ai/clean.git main
+readonly-dependencies/clean	git@github.com:icecode-ai/clean.git	main
